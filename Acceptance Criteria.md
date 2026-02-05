@@ -1,28 +1,48 @@
-***Acceptance Criteria***
-----
+# Acceptance Criteria – Demoblaze Demo Store
 
-**1**: Successful user registration
-Given the user is on Demoblaze
-When the user enters valid credentials in Sign up
-Then the account should be created.
+The following acceptance criteria define the conditions that must be met for core user-facing functionalities of the Demoblaze demo e-commerce store.
 
-**2**: Successful login
-Given the user has an existing account
-When the user enters valid username and password
-Then the user should be logged in.
+---
 
-**3**: Add products to cart
-Given the user is logged in
-When the user adds products to the cart
-Then the products appear in the cart.
+## AC-01: Successful User Registration
 
-**4**: Checkout
-Given the user has products in the cart
-When the user completes the purchase
-Then the order is successful.
+**Given** the user is on the Demoblaze homepage  
+**When** the user enters a valid username and password in the "Sign up" form  
+**Then** the account is created successfully  
+**And** a confirmation message is displayed
 
+---
 
-**5**: Invalid login
-Given the user enters invalid credentials
-When login is attempted
-Then a proper error message is displayed.
+## AC-02: Successful Login
+
+**Given** the user has an existing account  
+**When** the user enters a valid username and password and submits the login form  
+**Then** the user is logged in successfully  
+**And** the username is displayed in the navigation bar
+
+---
+
+## AC-03: Add Products to Cart
+
+**Given** the user is logged in  
+**When** the user adds one or more products to the shopping cart  
+**Then** the selected products appear in the cart  
+**And** the cart reflects the correct product details
+
+---
+
+## AC-04: Checkout Process
+
+**Given** the user has products in the shopping cart  
+**When** the user completes the purchase process  
+**Then** the order is placed successfully  
+**And** an order confirmation message is displayed
+
+---
+
+## AC-05: Invalid Login Attempt
+
+**Given** the user enters an invalid username or password  
+**When** the login attempt is submitted  
+**Then** an error message indicating invalid credentials is displayed  
+**And** the user is not logged in
