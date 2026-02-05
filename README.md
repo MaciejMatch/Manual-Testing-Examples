@@ -20,7 +20,13 @@ Validate core functionalities of the Demoblaze demo store through manual testing
 
 ---
 
-## 📂 Repository Structure
+## 📂 Main repository files
+1.[Test Scenario]
+
+2.[Test Case]
+
+3.[Acceptance Criteria]
+
 
 
 ---
