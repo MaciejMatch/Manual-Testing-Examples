@@ -50,5 +50,5 @@ Validate core functionalities of the Demoblaze demo store through manual testing
 
 ## 👤 Author
 
-[Your Name] – QA / Manual Testing Enthusiast 
+Maciej Miszewski – QA / Manual Testing Enthusiast 
 
