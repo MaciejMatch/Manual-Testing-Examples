@@ -1,17 +1,46 @@
-TS-01: User Registration  
-Users can create a new account successfully.
+# Test Scenarios – Demoblaze Demo Store
 
-TS-02: User Login  
-Registered users can log in to the system.
+This document describes high-level test scenarios for the Demoblaze demo e-commerce application (https://www.demoblaze.com).  
+The scenarios focus on core user flows and define *what* functionality is tested, without detailing specific test steps.
 
-TS-03: Browse and Select Products  
-Users can browse product categories and view product details.
+---
 
-TS-04: Add Products to Cart  
-Users can add one or more products to the shopping cart.
+## TS-01 – User Registration
 
-TS-05: View Cart  
-The shopping cart displays correct product details, quantities, and prices.
+**Description:**  
+Users can create a new account successfully using the registration functionality.
 
-TS-06: Checkout  
-Users can complete the purchase and receive an order confirmation.
+---
+
+## TS-02 – User Login
+
+**Description:**  
+Registered users can log in to the system using valid credentials.
+
+---
+
+## TS-03 – Browse and Select Products
+
+**Description:**  
+Users can browse product categories and view detailed information about selected products.
+
+---
+
+## TS-04 – Add Products to Cart
+
+**Description:**  
+Users can add one or more products to the shopping cart from the product details page.
+
+---
+
+## TS-05 – View Shopping Cart
+
+**Description:**  
+The shopping cart displays correct product details, quantities, and prices for selected products.
+
+---
+
+## TS-06 – Checkout
+
+**Description:**  
+Users can complete the purchase process and receive an order confirmation.
