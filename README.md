@@ -21,11 +21,11 @@ Validate core functionalities of the Demoblaze demo store through manual testing
 ---
 
 ## 📂 Main repository files
-1.[Test Scenario]
+1.[Test Scenario](https://github.com/MaciejMatch/Manual-Testing-Examples/blob/main/Test%20Scenarios.md)
 
-2.[Test Case]
+2.[Acceptance Criteria](https://github.com/MaciejMatch/Manual-Testing-Examples/blob/main/Acceptance%20Criteria.md)
 
-3.[Acceptance Criteria]
+3.[Test Case](https://github.com/MaciejMatch/Manual-Testing-Examples/blob/main/Test%20Cases.md)
 
 
 
