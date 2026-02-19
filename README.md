@@ -109,7 +109,7 @@ Professional bug report examples demonstrating proper defect documentation forma
 
 - ✅ Complete **E2E user purchase flow tested** and documented
 - ✅ **All critical functionalities validated** with 100% pass rate
-- ✅ **Professional QA documentation** following industry standards
+- ✅ **Professional  documentation** following industry standards
 - ✅ Demonstrates proper **test case structure** and **bug reporting format**
 - ✅ Covers **positive, negative, and edge case** scenarios
 - ✅ Includes **acceptance criteria** aligned with business requirements
@@ -124,7 +124,7 @@ This portfolio project showcases:
 - ✅ Acceptance criteria definition
 - ✅ Bug report documentation
 - ✅ E2E testing methodology
-- ✅ Attention to detail in QA processes
+- ✅ Attention to detail in testing processes
 - ✅ Professional documentation standards
 
 ---
@@ -144,7 +144,7 @@ Manual-Testing-Examples/
 
 ## 🔗 Related Projects
 
-Check out my other QA portfolio projects:
+Check out my other  portfolio projects:
 - [API Testing with Postman](https://github.com/MaciejMatch/API-Testing-in-Postman)
 - [SQL for Testers](https://github.com/MaciejMatch/SQL)
 - [Test Documentation](https://github.com/MaciejMatch/Test-Documentation)
@@ -153,7 +153,7 @@ Check out my other QA portfolio projects:
 
 ## 👤 Author
 
-**Maciej Miszewski** – QA / Software Tester
+**Maciej Miszewski** – Software Tester
 
 📧 Email: mjmiszewski@wp.pl  
 🔗 LinkedIn: [Maciej Miszewski](https://www.linkedin.com/in/maciej-miszewski-b2a8aa17b)
