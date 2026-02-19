@@ -153,7 +153,7 @@ Check out my other QA portfolio projects:
 
 ## 👤 Author
 
-**Maciej Miszewski** – ISTQB Certified QA Tester  
+**Maciej Miszewski** – QA / Software Tester 
 📧 Email: mjmiszewski@wp.pl  
 🔗 LinkedIn: [Maciej Miszewski](https://www.linkedin.com/in/maciej-miszewski-b2a8aa17b)
 
@@ -161,7 +161,7 @@ Check out my other QA portfolio projects:
 
 ## 📎 Notes
 
-This project was created for **educational and portfolio purposes** to demonstrate manual testing skills and professional QA documentation practices. The Demoblaze application is a public demo platform intended for testing and learning.
+This project was created for **educational and portfolio purposes** to demonstrate manual testing skills and professional software tesing documentation practices. The Demoblaze application is a public demo platform intended for testing and learning.
 
 **Portfolio created:** January 2026  
 **Last updated:** February 2026
