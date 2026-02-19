@@ -153,7 +153,8 @@ Check out my other QA portfolio projects:
 
 ## 👤 Author
 
-**Maciej Miszewski** – QA / Software Tester 
+**Maciej Miszewski** – QA / Software Tester
+
 📧 Email: mjmiszewski@wp.pl  
 🔗 LinkedIn: [Maciej Miszewski](https://www.linkedin.com/in/maciej-miszewski-b2a8aa17b)
 
